@@ -90,4 +90,8 @@
    <string name="power_notifications_ringtone_title">Notification sound</string>
    <!-- Sound settings, charging sounds label for ringtone == none -->
    <string name="power_notifications_ringtone_silent">Silent</string>
+
+   <!-- Bluetooth settings. A checkbox to set if we should accept all the file types regardless of their presence in MIME type whitelist -->
+   <string name="bluetooth_accept_all_files">Accept all file types</string>
+
 </resources>
