@@ -71,6 +71,7 @@
    <string name="notification_light_default_value">Default</string>
    <string name="notification_light_missed_call_title">Missed call</string>
    <string name="notification_light_voicemail_title">Voicemail</string>
+   <string name="notification_light_screen_on">Lights with screen on</string>
 
    <!-- Quick Unlock (PIN) -->
    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
@@ -89,5 +90,4 @@
    <string name="power_notifications_ringtone_title">Notification sound</string>
    <!-- Sound settings, charging sounds label for ringtone == none -->
    <string name="power_notifications_ringtone_silent">Silent</string>
-   
 </resources>
