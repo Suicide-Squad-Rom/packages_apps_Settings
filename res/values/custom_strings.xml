@@ -71,4 +71,8 @@
    <string name="notification_light_default_value">Default</string>
    <string name="notification_light_missed_call_title">Missed call</string>
    <string name="notification_light_voicemail_title">Voicemail</string>
+
+   <!-- Quick Unlock (PIN) -->
+   <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+   <string name="unlock_quick_unlock_control_summary">Unlock the lockscreen automatically when the correct PIN/password is entered</string>
 </resources>
